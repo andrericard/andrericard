@@ -1,2 +1,2 @@
 # andrericard
-Meu site oficial.
+Site pessoal hospedado no Firebase.
