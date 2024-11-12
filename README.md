@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil do GitHub!
 
 ### Sobre mim
-Sou engenheiro de software, especialista Laravel com mais de 11 anos de experiência no mercado, com foco em soluções de supply chain. Atualmente, trabalho na Logcomex, a maior empresa de inteligência e análise de dados de comércio exterior da américa latina.
+Sou engenheiro de software, especialista Laravel com mais de 11 anos de experiência no mercado, com foco em soluções de supply chain. Atualmente, trabalho no aiqfome, o segundo maior aplicativo de delivery do Brasil.
 
 ## Habilidades
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
