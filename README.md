@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil do GitHub!
 
 ### Sobre mim
-Sou engenheiro de software, especialista Laravel com mais de 11 anos de experiência no mercado, com foco em soluções de logística. Atualmente, trabalho no aiqfome, o segundo maior aplicativo de food delivery do Brasil.
+Sou engenheiro de software, especialista Laravel com mais de 11 anos de experiência no mercado, com foco em soluções de logística.
 
 ## Habilidades
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
